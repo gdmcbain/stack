@@ -53,10 +53,10 @@ setup-info:
            url: http://ghcjs.tolysz.org/ghc-8.0-2017-02-05-lts-7.19-9007019.tar.gz
            sha1: d2cfc25f9cda32a25a87d9af68891b2186ee52f9
 ```
-The later can be generated via: https://github.com/tolysz/prepare-ghcjs
-the fromer is a bit more manual. Those bundles are only tested against the latest `node-7.4.0`.
+The latter can be generated via: https://github.com/tolysz/prepare-ghcjs
+the former is a bit more manual. Those bundles are only tested against the latest `node-7.4.0`.
 
-In order to corrrectly boot and use ghcjs, one might need to install `alex` `happy` `hscolour` `hsc2hs` with the normal ghc.
+In order to correctly boot and use ghcjs, one might need to install `alex` `happy` `hscolour` `hsc2hs` with the normal ghc.
 
 Older resolvers:
 
